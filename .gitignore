@@ -58,3 +58,5 @@ bld/
 *.user
 .vs/
 /BHoM/Acoustic/Database
+
+.fake
